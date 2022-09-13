@@ -1,0 +1,1 @@
+TImage is a chrome extension used for translating texts in image in your web page.
